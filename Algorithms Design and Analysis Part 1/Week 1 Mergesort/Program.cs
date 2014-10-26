@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace Week_1_Mergesort
+namespace Mergesort
 {
     public class Program
     {
         public static void Main(string[] args)
         {
-            int[] array = new int[] { 5, 4, 3, 2, 6, 3, 66 };
+            var array = new[] { 5, 4, 3, 2, 6, 3, 66 };
             array = MergeSort(array);
 
             foreach (var item in array)
@@ -14,6 +14,7 @@ namespace Week_1_Mergesort
                 Console.Write(item);
                 Console.Write(" ");
             }
+            Console.ReadLine();
         }
 
         private static int[] MergeSort(int[] array)
@@ -23,7 +24,7 @@ namespace Week_1_Mergesort
                 return array;
             }
 
-            int half = array.Length / 2;
+            var half = array.Length / 2;
             var right = new int[half];
             Array.Copy(array, right, half);
             var left = new int[array.Length - half];
@@ -40,33 +41,33 @@ namespace Week_1_Mergesort
         {
             var array = new int[right.Length + left.Length];
 
-            int k = 0;
-            int m = 0;
-            for (int i = 0; i < array.Length; i++)
+            var r = 0;
+            var l = 0;
+            for (var o = 0; o < array.Length; o++)
             {
-                if (k >= right.Length)
+                if (r >= right.Length)
                 {
-                    array[i] = left[m];
-                    m += 1;
+                    array[o] = left[l];
+                    l += 1;
                     continue;
                 }
 
-                if (m >= left.Length)
+                if (l >= left.Length)
                 {
-                    array[i] = right[k];
-                    k += 1;
+                    array[o] = right[r];
+                    r += 1;
                     continue;
                 }
 
-                if (right[k] > left[m])
+                if (right[r] > left[l])
                 {
-                    array[i] = left[m];
-                    m += 1;
+                    array[o] = left[l];
+                    l += 1;
                 }
                 else
                 {
-                    array[i] = right[k];
-                    k += 1;
+                    array[o] = right[r];
+                    r += 1;
                 }
             }
 

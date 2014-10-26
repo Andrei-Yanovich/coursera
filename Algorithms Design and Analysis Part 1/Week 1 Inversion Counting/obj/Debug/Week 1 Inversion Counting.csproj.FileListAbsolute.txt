@@ -1,1 +1,6 @@
 c:\Projects\coursera\Algorithms Design and Analysis Part 1\Week 1 Inversion Counting\bin\Debug\Week 1 Inversion Counting.exe.config
+c:\Projects\coursera\Algorithms Design and Analysis Part 1\Week 1 Inversion Counting\obj\Debug\Week 1 Inversion Counting.csprojResolveAssemblyReference.cache
+c:\Projects\coursera\Algorithms Design and Analysis Part 1\Week 1 Inversion Counting\bin\Debug\Week 1 Inversion Counting.exe
+c:\Projects\coursera\Algorithms Design and Analysis Part 1\Week 1 Inversion Counting\bin\Debug\Week 1 Inversion Counting.pdb
+c:\Projects\coursera\Algorithms Design and Analysis Part 1\Week 1 Inversion Counting\obj\Debug\Week 1 Inversion Counting.exe
+c:\Projects\coursera\Algorithms Design and Analysis Part 1\Week 1 Inversion Counting\obj\Debug\Week 1 Inversion Counting.pdb

@@ -1,1 +1,6 @@
 c:\Projects\coursera\Algorithms Design and Analysis Part 1\Week 1 Mergesort\bin\Debug\Week 1 Mergesort.exe.config
+c:\Projects\coursera\Algorithms Design and Analysis Part 1\Week 1 Mergesort\bin\Debug\Week 1 Mergesort.exe
+c:\Projects\coursera\Algorithms Design and Analysis Part 1\Week 1 Mergesort\bin\Debug\Week 1 Mergesort.pdb
+c:\Projects\coursera\Algorithms Design and Analysis Part 1\Week 1 Mergesort\obj\Debug\Week 1 Mergesort.csprojResolveAssemblyReference.cache
+c:\Projects\coursera\Algorithms Design and Analysis Part 1\Week 1 Mergesort\obj\Debug\Week 1 Mergesort.exe
+c:\Projects\coursera\Algorithms Design and Analysis Part 1\Week 1 Mergesort\obj\Debug\Week 1 Mergesort.pdb

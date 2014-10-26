@@ -1,0 +1,1 @@
+C:\Projects\coursera\Algorithms Design and Analysis Part 1\Tests\bin\Debug\Tests.exe.config
