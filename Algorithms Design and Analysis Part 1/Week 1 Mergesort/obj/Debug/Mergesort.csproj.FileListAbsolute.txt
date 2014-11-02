@@ -1,5 +1,0 @@
-c:\Projects\coursera\Algorithms Design and Analysis Part 1\Week 1 Mergesort\bin\Debug\Mergesort.exe.config
-C:\Projects\coursera\Algorithms Design and Analysis Part 1\Week 1 Mergesort\bin\Debug\Mergesort.exe
-C:\Projects\coursera\Algorithms Design and Analysis Part 1\Week 1 Mergesort\bin\Debug\Mergesort.pdb
-C:\Projects\coursera\Algorithms Design and Analysis Part 1\Week 1 Mergesort\obj\Debug\Mergesort.exe
-C:\Projects\coursera\Algorithms Design and Analysis Part 1\Week 1 Mergesort\obj\Debug\Mergesort.pdb
