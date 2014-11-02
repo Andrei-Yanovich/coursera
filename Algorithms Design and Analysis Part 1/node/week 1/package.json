@@ -1,0 +1,5 @@
+{
+  "name": "week1",
+  "main": "./algorithm.js",
+  "version": "0.0.1"
+}

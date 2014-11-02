@@ -1,0 +1,24 @@
+{
+  "nanme": "coursera-algorithms",
+  "version": "0.0.1",
+  "main": "app.js",
+  "dependencies": {
+    "mathjs": "1.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Andrei-Yanovich/coursera.git"
+  },
+  "keywords": [
+    "algorithms"
+  ],
+  "author": "Andrei Yanovich  <andrei_yanovich@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andrei-Yanovich/coursera/issues"
+  },
+  "homepage": "https://github.com/Andrei-Yanovich/coursera"
+}
