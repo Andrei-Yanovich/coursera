@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Andrei-Yanovich/coursera/issues"
   },
-  "homepage": "https://github.com/Andrei-Yanovich/coursera"
+  "homepage": "https://github.com/Andrei-Yanovich/coursera",
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  }
 }

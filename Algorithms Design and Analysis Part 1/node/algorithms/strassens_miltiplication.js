@@ -1,4 +1,9 @@
-var mathjs = require(mathjs);
+/**
+ * Created by Andrei on 11/3/2014.
+ */
+"use strict";
+
+var mathjs = require("mathjs");
 
 var strassensMultiplication = function (matrixA, matrixB) {
     var sizeA = mathjs.size(matrixA), sizeB = mathjs.size(matrixB);
