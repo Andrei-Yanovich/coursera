@@ -23,5 +23,8 @@
   "homepage": "https://github.com/Andrei-Yanovich/coursera",
   "devDependencies": {
     "jasmine-node": "^1.14.5"
-  }
+  },
+  "dependencies": {
+    "lodash": "2.4.1"
+  }    
 }
